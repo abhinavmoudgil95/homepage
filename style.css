@@ -83,6 +83,12 @@ p {
 	color: #808080;
 }
 
+#quote
+{
+	color: #FFFFFF;
+	word-spacing: 3px;
+	margin-bottom: 40px;
+}
 #mainArea {
 	padding: 0 40px;
 }
